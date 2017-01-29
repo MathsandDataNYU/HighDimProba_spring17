@@ -15,5 +15,6 @@ Reading group on High Dimensional Probability topics.
   
 Schedule:
 
-February 2: Chapter 2 Presented by:
+February 2: Chapter 2 Presented by: 
+
 February 9: Chapter 3 Presented by: Zsolt
