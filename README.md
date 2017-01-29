@@ -13,3 +13,7 @@ Reading group on High Dimensional Probability topics.
   - [R. Vershynin](http://www-personal.umich.edu/~romanv/papers/HDP-book/HDP-book.html)
   
   
+Schedule:
+
+February 2: Chapter 2 Presented by:
+February 9: Chapter 3 Presented by: Zsolt
